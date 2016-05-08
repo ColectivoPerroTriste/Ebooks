@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+
+	<head>
+		<meta content="¿Propiedad intelectual? v1.0.0" name="dtb:uid"/>
+		<meta content="1" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+
+	<docTitle>
+		<text>¿Propiedad intelectual? Una recopilación de ensayos críticos</text>
+	</docTitle>
+
+	<docAuthor>
+		<text>Varios autores</text>
+	</docAuthor>
+
+	<navMap>
+		<navPoint id="navPoint-01" playOrder="1"><navLabel><text>Inicio</text></navLabel><content src="xhtml/01-portada.xhtml"/></navPoint>
+		<navPoint id="navPoint-02" playOrder="2"><navLabel><text>El manifiesto de GNU</text></navLabel><content src="xhtml/04c.xhtml"/></navPoint>
+		<navPoint id="navPoint-03" playOrder="3"><navLabel><text>Vender vino sin botellas</text></navLabel><content src="xhtml/05c.xhtml"/></navPoint>
+		<navPoint id="navPoint-04" playOrder="4"><navLabel><text>La catedral y el bazar</text></navLabel><content src="xhtml/06c.xhtml"/></navPoint>
+		<navPoint id="navPoint-05" playOrder="5"><navLabel><text>El anillo de oro</text></navLabel><content src="xhtml/07c.xhtml"/></navPoint>
+		<navPoint id="navPoint-06" playOrder="6"><navLabel><text>Propiedad intelectual, copyright, patentes</text></navLabel><content src="xhtml/08c.xhtml"/></navPoint>
+		<navPoint id="navPoint-07" playOrder="7"><navLabel><text>Teorías de la propiedad intelectual</text></navLabel><content src="xhtml/09c.xhtml"/></navPoint>
+		<navPoint id="navPoint-08" playOrder="8"><navLabel><text>Copyright y maremoto</text></navLabel><content src="xhtml/10c.xhtml"/></navPoint>
+		<navPoint id="navPoint-09" playOrder="9"><navLabel><text>Copiar, robar, mandar</text></navLabel><content src="xhtml/11c.xhtml"/></navPoint>
+		<navPoint id="navPoint-10" playOrder="10"><navLabel><text>El redescubrimiento del procomún</text></navLabel><content src="xhtml/12c.xhtml"/></navPoint>
+		<navPoint id="navPoint-11" playOrder="11"><navLabel><text>Por una cultura libre</text></navLabel><content src="xhtml/13c.xhtml"/></navPoint>
+		<navPoint id="navPoint-12" playOrder="12"><navLabel><text>Copia este libro</text></navLabel><content src="xhtml/14c.xhtml"/></navPoint>
+		<navPoint id="navPoint-13" playOrder="13"><navLabel><text>¿Software libre o de élite?</text></navLabel><content src="xhtml/15c.xhtml"/></navPoint>
+		<navPoint id="navPoint-14" playOrder="14"><navLabel><text>Propiedad intelectual y política cultural</text></navLabel><content src="xhtml/16c.xhtml"/></navPoint>
+		<navPoint id="navPoint-15" playOrder="15"><navLabel><text>El proyecto Creative Commons en México</text></navLabel><content src="xhtml/17c.xhtml"/></navPoint>
+		<navPoint id="navPoint-16" playOrder="16"><navLabel><text>Fundamentos filosóficos de la doctrina del fair use</text></navLabel><content src="xhtml/18c.xhtml"/></navPoint>
+		<navPoint id="navPoint-17" playOrder="17"><navLabel><text>Software libre, géneros y (des)igualdad: expandir los horizontes de la libertad</text></navLabel><content src="xhtml/19c.xhtml"/></navPoint>
+    </navMap>
+</ncx>

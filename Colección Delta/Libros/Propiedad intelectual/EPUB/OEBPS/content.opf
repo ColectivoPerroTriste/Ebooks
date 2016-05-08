@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xml:lang="en" unique-identifier="uid" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" version="3.0">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <meta property="rendition:layout">reflowable</meta>
+		<meta property="ibooks:specified-fonts">true</meta>
+        <meta property="dcterms:modified">2016-05-07T12:00:00Z</meta>
+        <dc:identifier id="uid">¿Propiedad intelectual? v1.0.0</dc:identifier>
+		<dc:title id="title">¿Propiedad intelectual? Una recopilación de ensayos críticos</dc:title>
+		<dc:creator>Varios Autores</dc:creator>
+		<dc:publisher>Perro Triste</dc:publisher>  
+		<dc:description>A través de múltiples voces se analiza la idea de «propiedad intelectual», sus límites, sus ambigüedades, sus riesgos y sus alternativas. En esta recopilación de ensayos pueden apreciarse los distintos focos que han sido material de reflexión sobre el pasado, presente y futuro de nuestro quehacer cultural.</dc:description>
+		<dc:language>es</dc:language>
+	</metadata>
+	<manifest>
+		<item href="nav/nav.xhtml" id="nav_xhtml" properties="nav" media-type="application/xhtml+xml" />
+		<item href="toc.ncx" id="toc_ncx" media-type="application/x-dtbncx+xml"/>
+		<item href="css/principal.css" id="estilos_css" media-type="text/css"/>
+        <item href="ttf/Lora-Regular.ttf" id="lora-regular_ttf" media-type="application/vnd.ms-opentype"/>
+        <item href="ttf/Lora-Italic.ttf" id="lora-italic_ttf" media-type="application/vnd.ms-opentype"/>
+        <item href="ttf/Lora-Bold.ttf" id="lora-bold_ttf" media-type="application/vnd.ms-opentype"/>
+        <item href="ttf/Lora-BoldItalic.ttf" id="lora-bolditalic_ttf" media-type="application/vnd.ms-opentype"/>
+		<item href="xhtml/01-portada.xhtml" id="portada_xhtml" media-type="application/xhtml+xml"/>
+		<item href="xhtml/02-portadilla.xhtml" id="portadilla_xhtml" media-type="application/xhtml+xml"/>
+		<item href="xhtml/03-legal.xhtml" id="legal_xhtml" media-type="application/xhtml+xml"/>
+        <item href="xhtml/04c.xhtml" id="c01_xhtml" media-type="application/xhtml+xml"/>
+        <item href="xhtml/04n.xhtml" id="n01_xhtml" media-type="application/xhtml+xml"/>
+        <item href="xhtml/05c.xhtml" id="c02_xhtml" media-type="application/xhtml+xml"/>
+        <item href="xhtml/05n.xhtml" id="n02_xhtml" media-type="application/xhtml+xml"/>
+        <item href="xhtml/06c.xhtml" id="c03_xhtml" media-type="application/xhtml+xml"/>
+        <item href="xhtml/07c.xhtml" id="c04_xhtml" media-type="application/xhtml+xml"/>
+        <item href="xhtml/07n.xhtml" id="n04_xhtml" media-type="application/xhtml+xml"/>
+        <item href="xhtml/08c.xhtml" id="c05_xhtml" media-type="application/xhtml+xml"/>
+        <item href="xhtml/08n.xhtml" id="n05_xhtml" media-type="application/xhtml+xml"/>
+        <item href="xhtml/09c.xhtml" id="c06_xhtml" media-type="application/xhtml+xml"/>
+        <item href="xhtml/09n.xhtml" id="n06_xhtml" media-type="application/xhtml+xml"/>
+        <item href="xhtml/10c.xhtml" id="c07_xhtml" media-type="application/xhtml+xml"/>
+        <item href="xhtml/11c.xhtml" id="c08_xhtml" media-type="application/xhtml+xml"/>
+        <item href="xhtml/11n.xhtml" id="n08_xhtml" media-type="application/xhtml+xml"/>
+        <item href="xhtml/12c.xhtml" id="c09_xhtml" media-type="application/xhtml+xml"/>
+        <item href="xhtml/12n.xhtml" id="n09_xhtml" media-type="application/xhtml+xml"/>
+        <item href="xhtml/13c.xhtml" id="c10_xhtml" media-type="application/xhtml+xml"/>
+        <item href="xhtml/13n.xhtml" id="n10_xhtml" media-type="application/xhtml+xml"/>
+        <item href="xhtml/14c.xhtml" id="c11_xhtml" media-type="application/xhtml+xml"/>
+        <item href="xhtml/14n.xhtml" id="n11_xhtml" media-type="application/xhtml+xml"/>
+        <item href="xhtml/15c.xhtml" id="c12_xhtml" media-type="application/xhtml+xml"/>
+        <item href="xhtml/16c.xhtml" id="c13_xhtml" media-type="application/xhtml+xml"/>
+        <item href="xhtml/16n.xhtml" id="n13_xhtml" media-type="application/xhtml+xml"/>
+        <item href="xhtml/17c.xhtml" id="c14_xhtml" media-type="application/xhtml+xml"/>
+        <item href="xhtml/18c.xhtml" id="c15_xhtml" media-type="application/xhtml+xml"/>
+        <item href="xhtml/18n.xhtml" id="n15_xhtml" media-type="application/xhtml+xml"/>
+        <item href="xhtml/19c.xhtml" id="c16_xhtml" media-type="application/xhtml+xml"/>
+        <item href="xhtml/19n.xhtml" id="n16_xhtml" media-type="application/xhtml+xml"/>
+        <item href="img/portada.jpg" id="portada_jpg" media-type="image/jpeg" properties="cover-image"/>
+        <item href="img/logo.png" id="logo_png" media-type="image/png"/>
+        <item href="img/logo2.png" id="logo2_png" media-type="image/png"/>
+        <item href="img/ul.png" id="ul_png" media-type="image/png"/>
+	</manifest>
+	<spine toc="toc_ncx">
+		<itemref idref="portada_xhtml"/>
+		<itemref idref="portadilla_xhtml"/>
+		<itemref idref="legal_xhtml"/>
+        <itemref idref="c01_xhtml"/>
+        <itemref idref="n01_xhtml" linear="no"/>
+        <itemref idref="c02_xhtml"/>
+        <itemref idref="n02_xhtml" linear="no"/>
+        <itemref idref="c03_xhtml"/>
+        <itemref idref="c04_xhtml"/>
+        <itemref idref="n04_xhtml" linear="no"/>
+        <itemref idref="c05_xhtml"/>
+        <itemref idref="n05_xhtml" linear="no"/>
+        <itemref idref="c06_xhtml"/>
+        <itemref idref="n06_xhtml" linear="no"/>
+        <itemref idref="c07_xhtml"/>
+        <itemref idref="c08_xhtml"/>
+        <itemref idref="n08_xhtml" linear="no"/>
+        <itemref idref="c09_xhtml"/>
+        <itemref idref="n09_xhtml" linear="no"/>
+        <itemref idref="c10_xhtml"/>
+        <itemref idref="n10_xhtml" linear="no"/>
+        <itemref idref="c11_xhtml"/>
+        <itemref idref="n11_xhtml" linear="no"/>
+        <itemref idref="c12_xhtml"/>
+        <itemref idref="c13_xhtml"/>
+        <itemref idref="n13_xhtml" linear="no"/>
+        <itemref idref="c14_xhtml"/>
+        <itemref idref="c15_xhtml"/>
+        <itemref idref="n15_xhtml" linear="no"/>
+        <itemref idref="c16_xhtml"/>
+        <itemref idref="n16_xhtml" linear="no"/>
+	</spine>
+</package>
