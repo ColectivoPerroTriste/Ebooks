@@ -4,7 +4,7 @@
         <meta property="rendition:layout">reflowable</meta>
 		<meta property="ibooks:specified-fonts">true</meta>
         <meta property="dcterms:modified">2016-05-07T12:00:00Z</meta>
-        <dc:identifier id="uid">¿Propiedad intelectual? v1.0.0</dc:identifier>
+        <dc:identifier id="uid">¿Propiedad intelectual? v1.0.1</dc:identifier>
 		<dc:title id="title">¿Propiedad intelectual? Una recopilación de ensayos críticos</dc:title>
 		<dc:creator>Varios Autores</dc:creator>
 		<dc:publisher>Perro Triste</dc:publisher>  

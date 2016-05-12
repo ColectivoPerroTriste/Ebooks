@@ -123,17 +123,11 @@ h3 {
 }
 
 h4 {
-    font-style: italic;
-    font-weight: bold;
-    font-family: Lora-BoldItalic, Georgia, serif;
-}
-
-h5 {
     font-weight: bold;
     font-family: Lora-Bold, Georgia, serif;
 }
 
-h6 {
+h5 {
     font-style: italic;
     font-family: Lora-Italic, Georgia, serif;
 }
@@ -158,6 +152,14 @@ p, blockquote, li {
     -o-hyphens: auto;
     -ms-hyphens: auto;
     hyphens: auto;
+}
+
+.noSeparar {
+    -moz-hyphens: none;
+    -webkit-hyphens: none;
+    -o-hyphens: none;
+    -ms-hyphens: none;
+    hyphens: none;
 }
 
 p + p {
@@ -227,6 +229,7 @@ strong em, b i, strong i, b em {
 
 .versalitas {
     font-variant: small-caps;
+    font-size: 1.2em;
 }
 
 /* Enlaces */
