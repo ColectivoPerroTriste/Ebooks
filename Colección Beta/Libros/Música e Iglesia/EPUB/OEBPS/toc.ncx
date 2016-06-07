@@ -2,7 +2,7 @@
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
 
 	<head>
-		<meta content="Música e Iglesia v0.1.2" name="dtb:uid"/>
+		<meta content="Música e Iglesia v0.2.0" name="dtb:uid"/>
 		<meta content="1" name="dtb:depth"/>
 		<meta content="0" name="dtb:totalPageCount"/>
 		<meta content="0" name="dtb:maxPageNumber"/>
@@ -26,6 +26,6 @@
         <navPoint id="navPoint-07" playOrder="7"><navLabel><text>Anexo 1</text></navLabel><content src="xhtml/09-anexo1.xhtml"/></navPoint>
         <navPoint id="navPoint-08" playOrder="8"><navLabel><text>Anexo 2</text></navLabel><content src="xhtml/10-anexo2.xhtml"/></navPoint>
         <navPoint id="navPoint-09" playOrder="9"><navLabel><text>Bibliografía</text></navLabel><content src="xhtml/11-bibliografia.xhtml"/></navPoint>
-		
+
     </navMap>
 </ncx>

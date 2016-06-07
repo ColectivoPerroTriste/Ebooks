@@ -4,10 +4,10 @@
         <meta property="rendition:layout">reflowable</meta>
 		<meta property="ibooks:specified-fonts">true</meta>
         <meta property="dcterms:modified">2016-01-26T12:00:00Z</meta>
-        <dc:identifier id="uid">Música e Iglesia v0.1.2</dc:identifier>
+        <dc:identifier id="uid">Música e Iglesia v0.2.0</dc:identifier>
 		<dc:title id="title">Música e Iglesia. Acercamientos a la música sacra en Colima</dc:title>
 		<dc:creator>Rosales, Alberto</dc:creator>
-		<dc:publisher>Perro Triste</dc:publisher>  
+		<dc:publisher>Perro Triste</dc:publisher>
 		<dc:description>Música e Iglesia es un acercamiento crítico al acontecer musical sacro de la ciudad de Colima. Con base en los textos que el Vaticano publicó a lo largo del siglo XX se analiza el desarrollo histórico de la música sacra en Colima y sus aspectos actuales.</dc:description>
 		<dc:language>es</dc:language>
 	</metadata>
@@ -31,12 +31,12 @@
         <item href="xhtml/11-bibliografia.xhtml" id="bibliografia_xhtml" media-type="application/xhtml+xml" />
         <item href="img/portada.jpg" id="portada_jpg" media-type="image/jpeg" properties="cover-image" />
         <item href="img/figura1.jpg" id="figura1_jpg" media-type="image/jpeg" />
-        <item href="img/figura2.jpg" id="figura2_jpg" media-type="image/jpeg" /> 
-        <item href="img/figura3.jpg" id="figura3_jpg" media-type="image/jpeg" /> 
-        <item href="img/figura4.jpg" id="figura4_jpg" media-type="image/jpeg" /> 
-        <item href="img/figura5.jpg" id="figura5_jpg" media-type="image/jpeg" /> 
-        <item href="img/figura6.jpg" id="figura6_jpg" media-type="image/jpeg" /> 
-        <item href="img/figura7.jpg" id="figura7_jpg" media-type="image/jpeg" /> 
+        <item href="img/figura2.jpg" id="figura2_jpg" media-type="image/jpeg" />
+        <item href="img/figura3.jpg" id="figura3_jpg" media-type="image/jpeg" />
+        <item href="img/figura4.jpg" id="figura4_jpg" media-type="image/jpeg" />
+        <item href="img/figura5.jpg" id="figura5_jpg" media-type="image/jpeg" />
+        <item href="img/figura6.jpg" id="figura6_jpg" media-type="image/jpeg" />
+        <item href="img/figura7.jpg" id="figura7_jpg" media-type="image/jpeg" />
         <item href="img/ul.png" id="ul_png" media-type="image/png" />
         <item href="img/logo.png" id="logo_png" media-type="image/png" />
         <item href="img/logo2.png" id="logo2_png" media-type="image/png" />
