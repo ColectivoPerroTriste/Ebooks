@@ -19,10 +19,10 @@
         <item href="img/portada.jpg" id="id_portada_jpg" media-type="image/jpeg" properties="cover-image" />
         <item href="img/ul.png" id="id_ul_png" media-type="image/png" />
         <item href="nav/nav.xhtml" id="id_nav_xhtml" media-type="application/xhtml+xml" properties="nav" />
-        <item href="otf/Crimson-Bold.otf" id="id_Crimson-Bold_otf" media-type="" />
-        <item href="otf/Crimson-BoldItalic.otf" id="id_Crimson-BoldItalic_otf" media-type="" />
-        <item href="otf/Crimson-Italic.otf" id="id_Crimson-Italic_otf" media-type="" />
-        <item href="otf/Crimson-Roman.otf" id="id_Crimson-Roman_otf" media-type="" />
+        <item href="otf/Crimson-Bold.otf" id="id_Crimson-Bold_otf" media-type="application/vnd.ms-opentype" />
+        <item href="otf/Crimson-BoldItalic.otf" id="id_Crimson-BoldItalic_otf" media-type="application/vnd.ms-opentype" />
+        <item href="otf/Crimson-Italic.otf" id="id_Crimson-Italic_otf" media-type="application/vnd.ms-opentype" />
+        <item href="otf/Crimson-Roman.otf" id="id_Crimson-Roman_otf" media-type="application/vnd.ms-opentype" />
         <item href="toc.ncx" id="id_toc_ncx" media-type="application/x-dtbncx+xml" />
         <item href="xhtml/01-portada.xhtml" id="id_01-portada_xhtml" media-type="application/xhtml+xml" />
         <item href="xhtml/02-portadilla.xhtml" id="id_02-portadilla_xhtml" media-type="application/xhtml+xml" />
