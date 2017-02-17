@@ -13,8 +13,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -25,9 +25,9 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 
-/* Para viejos exploradores */
+/* Para viejos expCrimsondores */
 
-article, aside, details, figcaption, figure, 
+article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
@@ -61,23 +61,23 @@ table {
 /* Fuentes */
 
 @font-face {
-	font-family: Lora-Regular;
-	src: url(../ttf/Lora-Regular.ttf);
+	font-family: Crimson-Regular;
+	src: url(../ttf/Crimson-Roman.otf);
 }
 
 @font-face {
-	font-family: Lora-Italic;
-	src: url(../ttf/Lora-Italic.ttf);
+	font-family: Crimson-Italic;
+	src: url(../ttf/Crimson-Italic.otf);
 }
 
 @font-face {
-	font-family: Lora-Bold;
-	src: url(../ttf/Lora-Bold.ttf);
+	font-family: Crimson-Bold;
+	src: url(../ttf/Crimson-Bold.otf);
 }
 
 @font-face {
-	font-family: Lora-BoldItalic;
-	src: url(../ttf/Lora-BoldItalic.ttf);
+	font-family: Crimson-BoldItalic;
+	src: url(../ttf/Crimson-BoldItalic.otf);
 }
 
 /* Portada */
@@ -98,7 +98,7 @@ body {
 /* Encabezados */
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: Lora-Regular, Georgia, serif;
+	font-family: Crimson-Regular, Georgia, serif;
     margin-bottom: 1em;
     text-align: left;
 }
@@ -124,12 +124,12 @@ h3 {
 
 h4 {
     font-weight: bold;
-    font-family: Lora-Bold, Georgia, serif;
+    font-family: Crimson-Bold, Georgia, serif;
 }
 
 h5 {
     font-style: italic;
-    font-family: Lora-Italic, Georgia, serif;
+    font-family: Crimson-Italic, Georgia, serif;
 }
 
 /* Párrafos */
@@ -143,7 +143,7 @@ h1 + p strong:first-child {
 }
 
 p, blockquote, li {
-	font-family: Lora-Regular, Georgia, serif;
+	font-family: Crimson-Regular, Georgia, serif;
 	font-size: 1em;
 	text-align: justify;
 	line-height: 1.25em;
@@ -213,18 +213,18 @@ blockquote + blockquote {
 
 i, em {
     font-style: italic;
-	font-family: Lora-Italic, Georgia, serif;
+	font-family: Crimson-Italic, Georgia, serif;
 }
 
 b, strong {
     font-weight: bold;
-	font-family: Lora-Bold, Georgia, serif;
+	font-family: Crimson-Bold, Georgia, serif;
 }
 
 strong em, b i, strong i, b em {
     font-style: italic;
     font-weight: bold;
-    font-family: Lora-BoldItalic, Georgia, serif;
+    font-family: Crimson-BoldItalic, Georgia, serif;
 }
 
 .versalitas {
@@ -293,6 +293,15 @@ sub {
 	margin: 0;
 }
 
+.legalItalica {
+	font-family: "Times New Roman", Times, serif;
+	font-style: italic;
+	font-size: 1em;
+	text-align: left;
+	line-height: 1.25em;
+	margin: 0;
+}
+
 .legal+.legal {
 	text-indent: 0;
 }
@@ -346,7 +355,7 @@ h1 + h1 {
 }
 
 .epigrafe {
-    font-family: Lora-Regular, Georgia, serif;
+    font-family: Crimson-Regular, Georgia, serif;
 	font-size: .9em;
 	text-align: right;
 	line-height: 1.25em;
@@ -367,7 +376,7 @@ p + .epigrafe {
 }
 
 .epigrafe2 {
-    font-family: Lora-Regular, Georgia, serif;
+    font-family: Crimson-Regular, Georgia, serif;
 	font-size: .9em;
 	text-align: justify;
 	line-height: 1.25em;
