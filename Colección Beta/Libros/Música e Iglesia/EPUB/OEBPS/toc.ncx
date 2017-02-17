@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
     <head>
-        <meta content="Música e Iglesia. Acercamientos a la música sacra en Colima-0.3.2" name="dtb:uid"/>
+        <meta content="Música e Iglesia-1.2.0" name="dtb:uid"/>
         <meta content="1" name="dtb:depth"/>
         <meta content="0" name="dtb:totalPageCount"/>
         <meta content="0" name="dtb:maxPageNumber"/>
     </head>
     <docTitle>
-        <text>Música e Iglesia. Acercamientos a la música sacra en Colima</text>
+        <text>Música e Iglesia</text>
     </docTitle>
     <docAuthor>
         <text>Rosales, Alberto</text>
     </docAuthor>
     <navMap>
         <navPoint id="navPoint-1" playOrder="1"><navLabel><text>Portada</text></navLabel><content src="xhtml/01-portada.xhtml"/></navPoint>
-        <navPoint id="navPoint-2" playOrder="2"><navLabel><text>Portadilla</text></navLabel><content src="xhtml/02-portadilla.xhtml"/></navPoint>
-        <navPoint id="navPoint-3" playOrder="3"><navLabel><text>Legal</text></navLabel><content src="xhtml/03-legal.xhtml"/></navPoint>
-        <navPoint id="navPoint-4" playOrder="4"><navLabel><text>Introducción</text></navLabel><content src="xhtml/04-introduccion.xhtml"/></navPoint>
-        <navPoint id="navPoint-5" playOrder="5"><navLabel><text>El proyecto del Vaticano</text></navLabel><content src="xhtml/05-capitulo01.xhtml"/></navPoint>
-        <navPoint id="navPoint-6" playOrder="6"><navLabel><text>La música sacra en Colima: 1939 a la actualidad</text></navLabel><content src="xhtml/06-capitulo02.xhtml"/></navPoint>
-        <navPoint id="navPoint-7" playOrder="7"><navLabel><text>Conclusión</text></navLabel><content src="xhtml/07-conclusion.xhtml"/></navPoint>
-        <navPoint id="navPoint-8" playOrder="8"><navLabel><text>Anexo&#160;1</text></navLabel><content src="xhtml/09-anexo1.xhtml"/></navPoint>
-        <navPoint id="navPoint-9" playOrder="9"><navLabel><text>Anexo 2</text></navLabel><content src="xhtml/10-anexo2.xhtml"/></navPoint>
-        <navPoint id="navPoint-10" playOrder="10"><navLabel><text>Bibliografía</text></navLabel><content src="xhtml/11-bibliografia.xhtml"/></navPoint>
+        <navPoint id="navPoint-2" playOrder="2"><navLabel><text>Introducción</text></navLabel><content src="xhtml/04-introduccion.xhtml"/></navPoint>
+        <navPoint id="navPoint-3" playOrder="3"><navLabel><text>El proyecto del Vaticano</text></navLabel><content src="xhtml/05-capitulo01.xhtml"/></navPoint>
+        <navPoint id="navPoint-4" playOrder="4"><navLabel><text>La música sacra en Colima: 1939 a la actualidad</text></navLabel><content src="xhtml/06-capitulo02.xhtml"/></navPoint>
+        <navPoint id="navPoint-5" playOrder="5"><navLabel><text>Conclusión</text></navLabel><content src="xhtml/07-conclusion.xhtml"/></navPoint>
+        <navPoint id="navPoint-6" playOrder="6"><navLabel><text>Anexo&#160;1</text></navLabel><content src="xhtml/09-anexo1.xhtml"/></navPoint>
+        <navPoint id="navPoint-7" playOrder="7"><navLabel><text>Anexo 2</text></navLabel><content src="xhtml/10-anexo2.xhtml"/></navPoint>
+        <navPoint id="navPoint-8" playOrder="8"><navLabel><text>Bibliografía</text></navLabel><content src="xhtml/11-bibliografia.xhtml"/></navPoint>
     </navMap>
 </ncx>

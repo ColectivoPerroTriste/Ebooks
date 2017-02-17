@@ -62,22 +62,22 @@ table {
 
 @font-face {
 	font-family: Crimson-Regular;
-	src: url(../ttf/Crimson-Roman.otf);
+	src: url(../otf/Crimson-Roman.otf);
 }
 
 @font-face {
 	font-family: Crimson-Italic;
-	src: url(../ttf/Crimson-Italic.otf);
+	src: url(../otf/Crimson-Italic.otf);
 }
 
 @font-face {
 	font-family: Crimson-Bold;
-	src: url(../ttf/Crimson-Bold.otf);
+	src: url(../otf/Crimson-Bold.otf);
 }
 
 @font-face {
 	font-family: Crimson-BoldItalic;
-	src: url(../ttf/Crimson-BoldItalic.otf);
+	src: url(../otf/Crimson-BoldItalic.otf);
 }
 
 /* Portada */
