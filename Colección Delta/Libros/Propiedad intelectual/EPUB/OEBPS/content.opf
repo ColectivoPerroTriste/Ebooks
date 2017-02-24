@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" xml:lang="es" unique-identifier="uid" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" version="3.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <dc:language>es</dc:language>
         <dc:title>Propiedad intelectual</dc:title>
         <dc:creator>Varios autores</dc:creator>
         <dc:publisher>Perro Triste</dc:publisher>
         <dc:description>A través de múltiples voces se analiza la idea de «propiedad intelectual», sus límites, sus ambigüedades, sus riesgos y sus alternativas. En esta recopilación de ensayos pueden apreciarse los distintos focos que han sido material de reflexión sobre el pasado, presente y futuro de nuestro quehacer cultural.</dc:description>
         <dc:subject>Ensayo</dc:subject>
         <dc:language>es</dc:language>
-        <dc:identifier id="uid">Propiedad intelectual-1.2.0</dc:identifier>
-        <meta property="dcterms:modified">2017-02-16T22:13:31Z</meta>
+        <dc:identifier id="uid">Propiedad intelectual-1.2.1</dc:identifier>
+        <meta property="dcterms:modified">2017-02-23T20:06:23Z</meta>
         <meta property="rendition:layout">reflowable</meta>
         <meta property="ibooks:specified-fonts">true</meta>
     </metadata>
